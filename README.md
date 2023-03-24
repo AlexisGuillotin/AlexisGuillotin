@@ -1,5 +1,7 @@
 <h1 align="center"> Hi, I am Alexis Guillotin </h1>
-<p><img align="center" src="Logo.png"/><p>
+<p align="center" width="100%">
+  <img width="33%" src="Logo.png" alt="Logo"/>
+</p>
 ---
 
 <h3 align="center"> A french apprentice in Big Data & AI</h3>
