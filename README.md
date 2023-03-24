@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisguillotin&theme=dark&layout=compact&hide=HTML,Jupyter%20Notebook" alt="AlexisGuillotin" /></p>
 
-<p><img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexisguillotin&theme=dark&layout=compact" alt="AlexisGuillotin" /></p>
+<p><img align="right" width="28%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexisguillotin&theme=dark&layout=compact" alt="AlexisGuillotin" /></p>
