@@ -13,5 +13,6 @@
 - 📫 Reach me at alexis.guillotin1@hotmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisguillotin&theme=dark&layout=compact&hide=HTML,Jupyter%20Notebook" alt="AlexisGuillotin" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisguillotin&hide=Jupyter%20Notebook)](https://github.com/alexisguillotin/github-readme-stats)
 
 <p><img align="right" width="33%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexisguillotin&theme=dark&layout=compact" alt="AlexisGuillotin" /></p>
